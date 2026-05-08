@@ -1,0 +1,213 @@
+[
+  {
+    "question": "What courses are offered?",
+    "answer": "We offer B.Tech, BBA, MBA, and MCA programs."
+  },
+  {
+    "question": "Which programs are available in the college?",
+    "answer": "We offer B.Tech, BBA, MBA, and MCA programs."
+  },
+  {
+    "question": "What degrees can I study here?",
+    "answer": "You can study B.Tech, BBA, MBA, and MCA."
+  },
+
+  {
+    "question": "How can I apply for admission?",
+    "answer": "You can apply online through the official college website."
+  },
+  {
+    "question": "What is the admission process?",
+    "answer": "Fill the online form, submit documents, and complete verification."
+  },
+  {
+    "question": "How do I get admission in this college?",
+    "answer": "You need to fill the application form and complete the admission process."
+  },
+
+  {
+    "question": "What are the eligibility criteria?",
+    "answer": "Eligibility depends on the course, generally 10+2 or graduation is required."
+  },
+  {
+    "question": "Who can apply for this course?",
+    "answer": "Students meeting the academic requirements like 10+2 or graduation can apply."
+  },
+
+  {
+    "question": "What is the fee structure?",
+    "answer": "The fee varies by course and ranges from 50,000 to 1,50,000 per year."
+  },
+  {
+    "question": "How much is the course fee?",
+    "answer": "Course fees range between 50,000 and 1,50,000 annually."
+  },
+
+  {
+    "question": "Is there any scholarship available?",
+    "answer": "Yes, scholarships are available based on merit and financial need."
+  },
+  {
+    "question": "Can I get a scholarship?",
+    "answer": "Yes, eligible students can apply for scholarships."
+  },
+
+  {
+    "question": "Does the college provide hostel facility?",
+    "answer": "Yes, hostel facilities are available for both boys and girls."
+  },
+  {
+    "question": "Is hostel available?",
+    "answer": "Yes, the college provides hostel accommodation."
+  },
+
+  {
+    "question": "What are the college timings?",
+    "answer": "College timings are from 9 AM to 5 PM."
+  },
+  {
+    "question": "When does college start and end?",
+    "answer": "Classes usually run from 9 AM to 5 PM."
+  },
+
+  {
+    "question": "Is placement provided?",
+    "answer": "Yes, the college has a placement cell that helps students get jobs."
+  },
+  {
+    "question": "Do you provide placements?",
+    "answer": "Yes, placement assistance is available for students."
+  },
+  {
+    "question": "What companies visit for placements?",
+    "answer": "Companies like TCS, Infosys, and Wipro visit for recruitment."
+  },
+  {
+    "question": "Which companies hire students?",
+    "answer": "Top companies like TCS, Infosys, and Wipro recruit students."
+  },
+
+  {
+    "question": "Where is the college located?",
+    "answer": "The college is located in a well-connected urban area."
+  },
+  {
+    "question": "What is the location of the college?",
+    "answer": "The college is situated in a prime city location."
+  },
+
+  {
+    "question": "How can I contact the college?",
+    "answer": "You can contact the college via phone or email available on the official website."
+  },
+  {
+    "question": "What are the contact details?",
+    "answer": "Contact details are available on the official website."
+  },
+  {
+    "question": "What is the phone number of the college?",
+    "answer": "You can find the phone number on the official website."
+  },
+  {
+    "question": "What is the email address of the college?",
+    "answer": "You can contact the college through their official email."
+  },
+  {
+    "question": "Contact",
+    "answer": "You can contact the college via phone or email available on the official website."
+  },
+  {
+    "question": "Phone number",
+    "answer": "You can find the phone number on the official website."
+  },
+  {
+    "question": "Email",
+    "answer": "You can contact the college through their official email."
+  },
+
+  {
+    "question": "What is the fee structure?",
+    "answer": "The fee varies by course and ranges from 50,000 to 1,50,000 per year."
+  },
+  {
+    "question": "How much is the course fee?",
+    "answer": "Course fees range between 50,000 and 1,50,000 annually."
+  },
+  {
+    "question": "What are the fees for courses?",
+    "answer": "The fee depends on the course and is between 50,000 and 1,50,000 per year."
+  },
+  {
+    "question": "Tell me about fees",
+    "answer": "Course fees range between 50,000 and 1,50,000 annually depending on the program."
+  },
+  {
+    "question": "Fees",
+    "answer": "The college fees range from 50,000 to 1,50,000 per year depending on the course."
+  },
+  {
+    "question": "Course fees",
+    "answer": "Course fees vary between 50,000 and 1,50,000 annually."
+  },
+  {
+    "question": "What is the tuition fee?",
+    "answer": "Tuition fees range between 50,000 and 1,50,000 per year."
+  },
+  {
+    "question": "Fee details",
+    "answer": "Fee details vary by course and typically range from 50,000 to 1,50,000 annually."
+  },
+  {
+    "question": "How much do I need to pay?",
+    "answer": "You need to pay between 50,000 and 1,50,000 per year depending on your course."
+  },
+  {
+  "question": "What is the fee for B.Tech CSE?",
+  "answer": "The fee for B.Tech in Computer Science is approximately 1,50,000 per year."
+  },
+  {
+  "question": "What is the fee for B.Tech Mechanical?",
+  "answer": "The fee for B.Tech in Mechanical Engineering is around 1,20,000 per year."
+  },
+  {
+  "question": "What is the fee for B.Tech Civil?",
+  "answer": "The fee for B.Tech in Civil Engineering is about 1,10,000 per year."
+  },
+  {
+  "question": "What is the fee for B.Tech Electrical?",
+  "answer": "The fee for B.Tech in Electrical Engineering is around 1,25,000 per year."
+  },
+  {
+  "question": "What is the fee for BBA?",
+  "answer": "The fee for BBA is approximately 80,000 per year."
+  },
+  {
+  "question": "What is the fee for MBA?",
+  "answer": "The fee for MBA is around 1,00,000 per year."
+  },
+  {
+  "question": "What is the fee for MCA?",
+  "answer": "The fee for MCA is approximately 90,000 per year."
+  },
+  {
+  "question": "Fees for CSE",
+  "answer": "The fee for Computer Science Engineering is approximately 1,50,000 per year."
+  },
+  {
+  "question": "Fees for Mechanical",
+  "answer": "The fee for Mechanical Engineering is around 1,20,000 per year."
+  },
+  {
+  "question": "Fees for Civil",
+  "answer": "The fee for Civil Engineering is about 1,10,000 per year."
+  },
+  {
+  "question": "Fees for Electrical",
+  "answer": "The fee for Electrical Engineering is around 1,25,000 per year."
+  },
+  {
+  "question": "B.Tech fees",
+  "answer": "B.Tech fees range from 1,10,000 to 1,50,000 per year depending on the branch."
+ }
+
+]
